@@ -1,0 +1,7 @@
+tasks:
+  - init: |
+      wget http://lhartikk.github.io/ArnoldC.jar
+
+vscode:
+  extensions:
+    - bradgashler.arnoldc
